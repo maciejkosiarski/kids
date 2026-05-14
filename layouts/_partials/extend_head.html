@@ -1,0 +1,22 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+
+<style>
+@media (max-width: 500px) {
+    .header .logo {
+        flex-wrap: wrap;
+        gap: 6px;
+    }
+    .header .logo a {
+        font-size: 18px;
+        min-width: 0;
+        flex: 1 1 auto;
+        white-space: normal;
+        line-height: 1.2;
+    }
+    .header .logo-switches {
+        flex-shrink: 0;
+    }
+}
+</style>

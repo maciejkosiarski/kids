@@ -1,0 +1,18 @@
+{{- $name := .Get "name" -}}
+{{- $bad := .Get "bad" -}}
+{{- $good := .Get "good" -}}
+{{- $goal := .Get "goal" -}}
+<article class="tech-card">
+  <h4 class="tech-card-name">{{ $name }}</h4>
+  <div class="tech-card-pair">
+    <div class="tech-card-line tech-card-bad">
+      <span class="tech-card-label">Zamiast</span>
+      <span class="tech-card-quote">„{{ $bad }}"</span>
+    </div>
+    <div class="tech-card-line tech-card-good">
+      <span class="tech-card-label">Powiedz</span>
+      <span class="tech-card-quote">„{{ $good }}"</span>
+    </div>
+  </div>
+  <div class="tech-card-goal"><span class="tech-card-goal-label">Cel</span>{{ $goal }}</div>
+</article>

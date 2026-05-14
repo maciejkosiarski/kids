@@ -1,0 +1,59 @@
+baseURL = "https://example.org/"
+defaultContentLanguage = "pl"
+title = "Komunikacja Empatyczna z Nastolatkami"
+theme = "PaperMod"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[languages]
+  [languages.pl]
+    locale = "pl-PL"
+    languageName = "Polski"
+    weight = 1
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
+[params]
+  env = "production"
+  description = "Analiza i operacjonalizacja metody Adele Faber i Elaine Mazlish"
+
+[params.label]
+  text = "Komunikacja z Nastolatkami"
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = false
+  ShowBreadCrumbs = false
+  ShowCodeCopyButtons = false
+  ShowWordCount = true
+  ShowToc = true
+  TocOpen = false
+  disableSpecial1stPost = true
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+
+[params.homeInfoParams]
+  Title = ""
+  Content = ""
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

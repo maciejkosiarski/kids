@@ -1,0 +1,16 @@
+{{- $bad := .Get "bad" -}}
+{{- $good := .Get "good" -}}
+{{- $note := .Get "note" -}}
+<aside class="swap">
+  <div class="swap-row swap-bad">
+    <span class="swap-label">Zamiast</span>
+    <span class="swap-quote">„{{ $bad }}"</span>
+  </div>
+  <div class="swap-row swap-good">
+    <span class="swap-label">Powiedz</span>
+    <span class="swap-quote">„{{ $good }}"</span>
+  </div>
+  {{- with $note }}
+  <p class="swap-note">{{ . | markdownify }}</p>
+  {{- end }}
+</aside>

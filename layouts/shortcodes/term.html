@@ -1,0 +1,1 @@
+{{- $def := .Get "def" -}}<dfn class="term" tabindex="0" data-def="{{ $def }}">{{- .Inner | safeHTML -}}<span class="term-def" role="tooltip">{{- $def -}}</span></dfn>
