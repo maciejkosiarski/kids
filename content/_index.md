@@ -106,7 +106,16 @@ Zamiast karania, rodzice powinni skupić się na tym, jak nastolatek może napra
 3. Wskazanie konkretnych kroków naprawczych (np. „Ta książka wymaga sklejenia i przeprosin właściciela").
 4. Zaproponowanie wyboru dotyczącego formy naprawy szkody.
 
-Jeśli zachowanie się powtarza mimo prób dialogu, rodzic powinien przejść do działania, które jest bezpośrednią konsekwencją zachowania. Pozwolenie dziecku na odczucie konsekwencji (np. brak czystych ubrań, bo nie zostały włożone do kosza) uczy odpowiedzialności w sposób naturalny i niepodważalny.
+Jeśli zachowanie się powtarza mimo prób dialogu, rodzic powinien przejść do działania, które jest bezpośrednią konsekwencją zachowania. Warunek skuteczności: konsekwencja musi dotykać samego nastolatka, a nie rodzica. Jeśli rodzicowi bardziej zależy na czystych ubraniach niż dziecku, „pozwolenie na brak prania" zamienia się w cichą wojnę — wygrywa ten, kto pierwszy ustąpi. Naturalna konsekwencja działa tylko wtedy, gdy koszt ponosi ten, kto podjął decyzję:
+
+- **Telefon nieładowany na noc** → rano rozładowany, bez kontaktu ze znajomymi w drodze do szkoły. Rodzic nie pożycza powerbanku.
+- **Kieszonkowe wydane w trzy dni** → brak pieniędzy na wyjście w weekend. Bez zaliczki na poczet kolejnego miesiąca.
+- **Niezabezpieczony rower lub zgubione słuchawki** → naprawa lub odkupienie z własnych pieniędzy, nie z budżetu rodziców.
+- **Spóźnienie powyżej ustalonej godziny powrotu** → następnym razem godzina powrotu jest wcześniejsza; wraca się do dłuższej po kilku dotrzymanych terminach.
+- **Niedotrzymane zobowiązanie wobec drużyny, zespołu lub kółka** → trener czy prowadzący nie wystawia na mecz, koncert, występ. Patrzenie z ławki uczy szybciej niż wykład o odpowiedzialności.
+- **Zapomniany strój na WF, drugie śniadanie, podpisana zgoda** → rodzic nie dowozi do szkoły. Raz odczuty dyskomfort uczy więcej niż dziesięć przypomnień.
+
+Kluczowe jest, by rodzic nie ratował dziecka przed konsekwencją w ostatniej chwili — w przeciwnym razie nauka się nie wydarzy, a komunikat brzmi: „i tak cię z tego wyciągnę".
 
 ## Rozwiązywanie konfliktów w pięciu krokach
 
