@@ -2,7 +2,8 @@
 description: "Analiza i operacjonalizacja metody Adele Faber i Elaine Mazlish w relacji z nastolatkami"
 ---
 
-<p class="prelude">Czytasz to, bo ostatnia rozmowa nie poszła. To normalne. I da się to odwrócić.</p>
+<p class="prelude">Twój nastolatek nie zmienił się w obcego człowieka. Zmieniły 
+   się zasady gry a nikt nie wręczył ci nowych.</p>
 
 {{< hero >}}
 1. **Najpierw uczucia, potem rozmowa.** Uznaj i nazwij to, co dziecko czuje — bez oceny i bez pytania „dlaczego".
