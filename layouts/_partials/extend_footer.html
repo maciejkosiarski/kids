@@ -1,1 +1,6 @@
 <script src="{{ "js/reading.js" | relURL }}" defer></script>
+{{ if and .Site.Params.googleTagManagerID (eq .Site.Params.env "production") }}
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ .Site.Params.googleTagManagerID }}"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+{{ partial "cookie-consent.html" . }}
+{{ end }}

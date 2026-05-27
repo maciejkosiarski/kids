@@ -20,6 +20,7 @@ buildExpired = false
 
 [params]
   env = "production"
+  googleTagManagerID = "GTM-W9XG9TSX"
   description = "Analiza i operacjonalizacja metody Adele Faber i Elaine Mazlish"
 
 [params.label]
