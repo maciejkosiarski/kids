@@ -1,90 +1,59 @@
-<style>
-  #cookie-banner {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    background: var(--theme);
-    border-top: 1px solid var(--border);
-    padding: 16px 24px;
-    z-index: 9999;
-    align-items: center;
-    justify-content: space-between;
-    gap: 16px;
-    flex-wrap: wrap;
-  }
-  #cookie-banner p {
-    margin: 0;
-    font-size: 14px;
-  }
-  .cookie-buttons {
-    display: flex;
-    gap: 8px;
-    flex-shrink: 0;
-  }
-  .cookie-btn {
-    padding: 8px 16px;
-    border-radius: 4px;
-    border: 1px solid var(--border);
-    cursor: pointer;
-    font-size: 14px;
-    background: transparent;
-    color: var(--primary);
-  }
-  .cookie-btn-accept {
-    background: var(--primary);
-    color: var(--theme);
-    border-color: var(--primary);
-  }
-</style>
-
-<div id="cookie-banner" role="dialog" aria-label="Zgoda na pliki cookie" style="display:none">
-  <p>Ta strona używa plików cookie do analizy ruchu (Google Analytics). Czy wyrażasz zgodę?</p>
-  <div class="cookie-buttons">
-    <button class="cookie-btn" id="cookie-reject">Odrzuć</button>
-    <button class="cookie-btn cookie-btn-accept" id="cookie-accept">Akceptuję</button>
+<div id="cookie-banner" style="display: none; position: fixed; bottom: 0; left: 0; right: 0; background: var(--theme); border-top: 1px solid var(--border); padding: 16px 24px; z-index: 9999;">
+  <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap;">
+    <p style="margin: 0; font-size: 14px;">Ta strona używa plików cookie do analizy ruchu (Google Analytics). Czy wyrażasz zgodę?</p>
+    <div style="display: flex; gap: 8px; flex-shrink: 0;">
+      <button id="cookie-reject" style="padding: 8px 16px; border-radius: 4px; border: 1px solid var(--border); cursor: pointer; font-size: 14px; background: transparent; color: var(--primary);">Odrzuć</button>
+      <button id="cookie-accept" style="padding: 8px 16px; border-radius: 4px; border: 1px solid var(--primary); cursor: pointer; font-size: 14px; background: var(--primary); color: var(--theme);">Akceptuję</button>
+    </div>
   </div>
 </div>
 
 <script>
-  (function () {
-    var COOKIE_NAME = 'analytics_consent';
-    var banner = document.getElementById('cookie-banner');
+(function() {
+  'use strict';
 
-    function getCookie(name) {
-      var m = document.cookie.match(new RegExp('(^| )' + name + '=([^;]+)'));
-      return m ? m[2] : null;
-    }
+  var COOKIE_NAME = 'analytics_consent';
+  var banner = document.getElementById('cookie-banner');
 
-    function setCookie(name, value, days) {
-      var exp = new Date(Date.now() + days * 864e5).toUTCString();
-      document.cookie = name + '=' + value + '; expires=' + exp + '; path=/; SameSite=Lax';
-    }
+  function getCookie(name) {
+    var value = '; ' + document.cookie;
+    var parts = value.split('; ' + name + '=');
+    return parts.length === 2 ? parts.pop().split(';').shift() : null;
+  }
 
-    function notifyGTMConsent() {
-      window.dataLayer = window.dataLayer || [];
-      window.dataLayer.push({
-        event: 'Cookie Consent - Analytics Approved',
-        analytics_consent: true
-      });
-    }
+  function setCookie(name, value, days) {
+    var expires = new Date(Date.now() + days * 24 * 60 * 60 * 1000);
+    document.cookie = name + '=' + value + ';expires=' + expires.toUTCString() + ';path=/;SameSite=Lax';
+  }
 
-    var consent = getCookie(COOKIE_NAME);
-    if (consent === null) {
-      banner.style.display = 'flex';
-    } else if (consent === 'true') {
-      notifyGTMConsent();
-    }
+  function notifyGTMConsent() {
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+      event: 'Cookie Consent - Analytics Approved',
+      analytics_consent: true
+    });
+  }
 
-    document.getElementById('cookie-accept').addEventListener('click', function () {
+  if (banner) {
+    var acceptBtn = document.getElementById('cookie-accept');
+    var rejectBtn = document.getElementById('cookie-reject');
+
+    if (acceptBtn) acceptBtn.addEventListener('click', function() {
       setCookie(COOKIE_NAME, 'true', 365);
       notifyGTMConsent();
       banner.style.display = 'none';
     });
 
-    document.getElementById('cookie-reject').addEventListener('click', function () {
+    if (rejectBtn) rejectBtn.addEventListener('click', function() {
       setCookie(COOKIE_NAME, 'false', 365);
       banner.style.display = 'none';
     });
-  })();
+  }
+
+  if (!getCookie(COOKIE_NAME)) {
+    if (banner) banner.style.display = 'block';
+  } else if (getCookie(COOKIE_NAME) === 'true') {
+    notifyGTMConsent();
+  }
+})();
 </script>
