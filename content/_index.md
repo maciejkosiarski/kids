@@ -6,26 +6,26 @@ description: "Analiza i operacjonalizacja metody Adele Faber i Elaine Mazlish w 
    się zasady gry a nikt nie wręczył ci nowych.</p>
 
 {{< hero >}}
-1. **Najpierw uczucia, potem rozmowa.** Uznaj i nazwij to, co dziecko czuje — bez oceny i bez pytania „dlaczego".
-2. **Rozkaz zamień na zaproszenie.** Opis, informacja, krótki komunikat, własne uczucia albo wybór — pięć technik, które omijają bunt.
-3. **W miejsce kary — naprawa szkody.** Naturalne konsekwencje uczą; kara uczy tylko, jak unikać karzącego.
-4. **Etykiety zdejmuj przez wyjątki.** Chwal konkretem, nie ogólnikiem — wniosek o sobie dziecko ma wyciągnąć samo.
+1. **Najpierw uczucia, potem rozmowa.** Uznaj i nazwij to, co dziecko czuje, bez oceny i bez pytania „dlaczego".
+2. **Rozkaz zamień na zaproszenie.** Opis, informacja, krótki komunikat, własne uczucia albo wybór: pięć technik, które omijają bunt.
+3. **W miejsce kary: naprawa szkody.** Naturalne konsekwencje uczą. Kara uczy tylko, jak unikać karzącego.
+4. **Etykiety zdejmuj przez wyjątki.** Chwal konkretem, nie ogólnikiem. Wniosek o sobie dziecko ma wyciągnąć samo.
 5. **Trudne tematy w serii rozmów, nie w jednej „Wielkiej Rozmowie".** Spokojne fakty zamiast moralizatorstwa, z otwartymi drzwiami na powrót.
 {{< /hero >}}
 
 ## Dlaczego stare metody przestają działać
 
 {{< tldr >}}
-Rozkazy i kary uruchamiają bunt zamiast refleksji. Metoda Faber i Mazlish przesuwa rodzica z roli sędziego do roli przewodnika — i pozwala ocalić więź w okresie, gdy dziecko z natury się oddala.
+Rozkazy i kary uruchamiają bunt zamiast refleksji. Metoda Faber i Mazlish przesuwa rodzica z roli sędziego do roli przewodnika i pozwala ocalić więź w okresie, gdy dziecko z natury się oddala.
 {{< /tldr >}}
 
-W okresie dojrzewania rozkazy zaczynają zawodzić. Rodzic, który dotąd skutecznie organizował świat dziecka, nagle staje pod ścianą: bunt, zamknięcie, czasem zachowania ryzykowne. Adele Faber i Elaine Mazlish, opierając się na pracach dra Haima Ginotta, opisały drogę wyjścia — zamianę hierarchicznej kontroli na relację opartą na szacunku, która ocala więź właśnie tam, gdzie inne metody pękają.
+W okresie dojrzewania rozkazy zaczynają zawodzić. Rodzic, który dotąd skutecznie organizował świat dziecka, nagle staje pod ścianą: bunt, zamknięcie, czasem zachowania ryzykowne. Adele Faber i Elaine Mazlish, opierając się na pracach dra Haima Ginotta, opisały drogę wyjścia: zamianę hierarchicznej kontroli na relację opartą na szacunku, która ocala więź właśnie tam, gdzie inne metody pękają.
 
-Najważniejsza zmiana zachodzi wewnątrz rodzica. Zamiast widzieć w nastolatku problem do „naprawienia", rodzic przyjmuje rolę {{< term def="osoba, która ułatwia proces — nie narzuca rozwiązań, lecz towarzyszy, zadaje pytania, pomaga znaleźć własną drogę." >}}facylitatora{{< /term >}} — towarzyszy procesowi {{< term def="psychologiczny proces stawania się odrębną, świadomą siebie jednostką; oddzielanie tożsamości dziecka od tożsamości rodziców." >}}indywiduacji{{< /term >}} i budowania autonomii zamiast go hamować. Polska edycja serii „Jak mówić..." stała się bestsellerem — sygnał, jak bardzo rodzicom brakuje narzędzi pozwalających ocalić bliskość w momencie, gdy biologia i kultura każą dziecku się oddalać.
+Najważniejsza zmiana zachodzi wewnątrz rodzica. Zamiast widzieć w nastolatku problem do „naprawienia", rodzic staje się przewodnikiem, który nie narzuca rozwiązań, ale towarzyszy, zadaje pytania, pomaga znaleźć własną drogę. Wspiera dziecko w stawaniu się odrębną, świadomą siebie osobą i w budowaniu autonomii, zamiast ten proces hamować. Polska edycja serii „Jak mówić..." stała się bestsellerem. To sygnał, jak bardzo rodzicom brakuje narzędzi pozwalających ocalić bliskość w momencie, gdy biologia i kultura każą dziecku się oddalać.
 
 | Podstawowe założenia modelu Faber/Mazlish | Opis mechanizmu psychologicznego |
 |---|---|
-| Uznanie uczuć za fakt | Emocje nie podlegają ocenie logicznej; muszą zostać przeżyte i nazwane, aby opadły. |
+| Uznanie uczuć za fakt | Emocje nie podlegają ocenie logicznej. Muszą zostać przeżyte i nazwane, aby opadły. |
 | Rezygnacja z karania | Kara wywołuje nienawiść i chęć odwetu, zamiast skłaniać do refleksji nad błędem. |
 | Wspólne rozwiązywanie problemów | Angażowanie nastolatka w proces decyzyjny buduje jego poczucie sprawstwa i odpowiedzialności. |
 | Uwalnianie od ról | Unikanie etykietowania pozwala dziecku na eksperymentowanie z nowymi, pozytywnymi zachowaniami. |
@@ -33,10 +33,10 @@ Najważniejsza zmiana zachodzi wewnątrz rodzica. Zamiast widzieć w nastolatku 
 ## Gdy emocje biorą górę
 
 {{< tldr >}}
-Emocje nie podlegają logice — muszą zostać przyjęte i nazwane, zanim opadną. Najpierw walidacja, dopiero potem rozmowa.
+Emocje nie podlegają logice. Muszą zostać przyjęte i nazwane, zanim opadną. Najpierw walidacja, dopiero potem rozmowa.
 {{< /tldr >}}
 
-Pierwszym filarem skutecznej komunikacji jest umiejętność radzenia sobie z intensywnymi i często sprzecznymi emocjami nastolatka. Faber i Mazlish wskazują, że dorośli mają naturalną tendencję do zaprzeczania uczuciom dzieci („Nie smuć się", „To nic takiego"), co prowadzi do poczucia bycia niezrozumianym i osamotnionym. Autorki proponują radykalnie odmienne podejście, oparte na {{< term def="uznanie, że to, co dziecko czuje, jest realne i ma sens — bez oceny, bez próby zmiany, bez gotowych rad." >}}walidacji{{< /term >}} doświadczenia wewnętrznego dziecka.
+Pierwszym filarem skutecznej komunikacji jest umiejętność radzenia sobie z intensywnymi i często sprzecznymi emocjami nastolatka. Faber i Mazlish wskazują, że dorośli mają naturalną tendencję do zaprzeczania uczuciom dzieci („Nie smuć się", „To nic takiego"), co prowadzi do poczucia bycia niezrozumianym i osamotnionym. Autorki proponują radykalnie odmienne podejście, oparte na {{< term def="uznanie, że to, co dziecko czuje, jest realne i ma sens, bez oceny, bez próby zmiany, bez gotowych rad." >}}walidacji{{< /term >}} doświadczenia wewnętrznego dziecka.
 
 {{< swap bad="Nie smuć się, to nic takiego." good="Widzę, że jest ci teraz ciężko." >}}
 
@@ -44,7 +44,7 @@ Pierwszym filarem skutecznej komunikacji jest umiejętność radzenia sobie z in
 
 Podstawowym narzędziem jest akceptacja uczuć poprzez proste, potwierdzające sygnały, takie jak „och", „rozumiem", czy „mmm". Te krótkie komunikaty dają nastolatkowi przestrzeń do wypowiedzenia się bez lęku przed natychmiastową oceną lub „dobrą radą", która w stanach silnego pobudzenia emocjonalnego jest odbierana jako atak na autonomię.
 
-Kolejnym zaawansowanym narzędziem jest nadawanie uczuciom nazwy. Zidentyfikowanie emocji („Wygląda na to, że jesteś rozgoryczona tymi lekcjami") pozwala na obniżenie aktywności {{< term def="część mózgu odpowiedzialna za reakcje emocjonalne, zwłaszcza strach i agresję; przejmuje kontrolę w stanach silnego pobudzenia." >}}ciała migdałowatego{{< /term >}} i aktywację {{< term def="obszar mózgu odpowiadający za planowanie, kontrolę impulsów i racjonalne decyzje; u nastolatków dojrzewa do ok. 25. roku życia." >}}kory przedczołowej{{< /term >}}, co jest niezbędne do przejścia w tryb racjonalnego myślenia. Niezwykle istotne jest unikanie pytań typu „dlaczego", które zmuszają nastolatka do logicznej analizy czegoś, co często jest dla niego samego niejasne i irracjonalne.
+Kolejnym zaawansowanym narzędziem jest nadawanie uczuciom nazwy. Zidentyfikowanie emocji („Wygląda na to, że jesteś rozgoryczona tymi lekcjami") pozwala na obniżenie aktywności {{< term def="część mózgu odpowiedzialna za reakcje emocjonalne, zwłaszcza strach i agresję. Przejmuje kontrolę w stanach silnego pobudzenia." >}}ciała migdałowatego{{< /term >}} i aktywację {{< term def="obszar mózgu odpowiadający za planowanie, kontrolę impulsów i racjonalne decyzje. U nastolatków dojrzewa do ok. 25. roku życia." >}}kory przedczołowej{{< /term >}}, co jest niezbędne do przejścia w tryb racjonalnego myślenia. Niezwykle istotne jest unikanie pytań typu „dlaczego", które zmuszają nastolatka do logicznej analizy czegoś, co często jest dla niego samego niejasne i irracjonalne.
 
 {{< swap bad="Dlaczego się tak czujesz? Przecież to nic ważnego." good="Wygląda na to, że jesteś rozgoryczona tymi lekcjami." >}}
 
@@ -53,6 +53,14 @@ Kolejnym zaawansowanym narzędziem jest nadawanie uczuciom nazwy. Zidentyfikowan
 W sytuacjach, gdy rzeczywistość nie pozwala na spełnienie prośby nastolatka, metoda sugeruje wykorzystanie wyobraźni. Spełnianie życzeń w wyobraźni (np. „Chciałabym móc sprawić, że ten test sam się napisze") nie jest formą kłamstwa, lecz dowodem na to, że rodzic rozumie skalę trudności, z jaką mierzy się dziecko. Mechanizm ten redukuje opór i sprawia, że rzeczywistość staje się łatwiejsza do zniesienia, ponieważ dziecko nie musi już walczyć o uznanie swojego dyskomfortu.
 
 {{< swap bad="Nie mogę nic z tym zrobić, sam musisz się uczyć." good="Chciałabym móc sprawić, że ten test sam się napisze." >}}
+
+### Krytyka jako zaproszenie do rozmowy
+
+Nie każda ostrość w głosie nastolatka jest atakiem. Bywa zaproszeniem, które czeka na właściwą odpowiedź. Rodzic, który zamiast bronić się przed zarzutem wykazuje autentyczną ciekawość i dystans do siebie samego, odkrywa niekiedy, że za krytyką kryje się temat, który dziecko od dawna chciało poruszyć. Moment wyglądający na wstęp do awantury zmienia się w dwustronną rozmowę: dziecko, widząc, że rodzic nie odpiera ciosu, lecz pyta, samo zaczyna myśleć razem z nim zamiast przeciwko niemu.
+
+Szczególnie podatnym gruntem są rozmowy prowadzone w samochodzie. Brak bezpośredniego kontaktu wzrokowego obniża poziom konfrontacji. Obie strony patrzą przed siebie, co mimowolnie zmniejsza napięcie i daje przestrzeń na szczerość, której nie ma przy stole twarzą w twarz. Zarzut rzucony w aucie, choćby o sposób kupowania prezentów, przyjęty z ciekawością zamiast z kontrą, może przerodzić się w żywą wymianę zdań, w której nastolatek po raz pierwszy formułuje własne stanowisko, a rodzic dowiaduje się czegoś, czego nie podejrzewał.
+
+{{< swap bad="To nieprawda, że tak robię." good="Jestem ciekaw, dlaczego tak uważasz. Powiedz mi więcej." >}}
 
 ## Jak zaprosić do współpracy bez walki
 
@@ -64,7 +72,7 @@ Codzienne zmagania o porządek, obowiązki domowe czy czas spędzany przed ekran
 
 ### Opisuj problem zamiast atakować
 
-Zamiast atakować charakter nastolatka oskarżeniami („Znowu nie wyniosłeś śmieci, jesteś leniwy"), rekomenduje się opisanie problemu („Kosz na śmieci się przepełnia"). Opis jest neutralny i pozwala dziecku na zachowanie twarzy – widzi ono problem, a nie własną ułomność. Udzielanie informacji („Jeśli naczynia zostaną w pokoju, pojawi się pleśń") zamiast {{< term def="wygłaszanie pouczeń o tym, jak należy się zachowywać — w tonie wyższości moralnej, zwykle bez słuchania drugiej strony." >}}moralizatorstwa{{< /term >}} buduje postawę opartą na faktach, a nie na emocjonalnym szantażu.
+Zamiast atakować charakter nastolatka oskarżeniami („Znowu nie wyniosłeś śmieci, jesteś leniwy"), rekomenduje się opisanie problemu („Kosz na śmieci się przepełnia"). Opis jest neutralny i pozwala dziecku na zachowanie twarzy: widzi ono problem, a nie własną ułomność. Udzielanie informacji („Jeśli naczynia zostaną w pokoju, pojawi się pleśń") zamiast {{< term def="wygłaszanie pouczeń o tym, jak należy się zachowywać, w tonie wyższości moralnej, zwykle bez słuchania drugiej strony." >}}moralizatorstwa{{< /term >}} buduje postawę opartą na faktach, a nie na emocjonalnym szantażu.
 
 {{< swap bad="Znowu nie wyniosłeś śmieci, jesteś leniwy." good="Kosz na śmieci się przepełnia." >}}
 
@@ -80,20 +88,20 @@ Dawanie wyboru („Możesz odkurzyć teraz albo po kolacji, co wybierasz?") jest
 
 ### Ściągawka: pięć technik na jednym ekranie
 
-Poniższe karty łączą omówione wyżej techniki w jedną ściągawkę — do szybkiego zerknięcia w momencie napięcia, gdy emocje sięgają sufitu, a trzeba przypomnieć sobie alternatywę dla rozkazu. Pięć różnych sytuacji, ten sam mechanizm: zamiast atakować — opisz; zamiast tłumaczyć — podaj fakt; zamiast pouczać — daj wybór.
+Poniższe karty łączą omówione wyżej techniki w jedną ściągawkę: do szybkiego zerknięcia w momencie napięcia, gdy emocje sięgają sufitu, a trzeba przypomnieć sobie alternatywę dla rozkazu. Pięć różnych sytuacji, ten sam mechanizm: zamiast atakować, opisz. Zamiast tłumaczyć, podaj fakt. Zamiast pouczać, daj wybór.
 
 {{< techniques >}}
-{{< technique name="Opis problemu" bad="Jesteś bałaganiarzem." good="Na podłodze leżą mokre ubrania." goal="Brak oceny charakteru — dziecko widzi problem, a nie własną ułomność." >}}
+{{< technique name="Opis problemu" bad="Jesteś bałaganiarzem." good="Na podłodze leżą mokre ubrania." goal="Brak oceny charakteru: dziecko widzi problem, a nie własną ułomność." >}}
 {{< technique name="Udzielenie informacji" bad="Zrób to, bo ja tak mówię." good="Mleko postawione poza lodówką kwaśnieje." goal="Budowanie logicznych związków zamiast szantażu autorytetem." >}}
-{{< technique name="Krótki komunikat" bad="Ile razy mam cię prosić o buty?" good="Buty." goal="Unikanie nagabywania — jedno słowo trudniej zignorować." >}}
-{{< technique name="Mów o sobie" bad="Jesteś egoistą, nigdy mi nie pomagasz." good="Irytuje mnie, gdy muszę powtarzać prośbę trzy razy." goal="Komunikat „Ja” — informacja o stanie rodzica zamiast ataku na dziecko." >}}
-{{< technique name="Proponowanie wyboru" bad="Masz wracać o 20:00." good="Chcesz wrócić o 20:00 czy 20:30?" goal="Uznanie autonomii — ograniczony wybór daje poczucie kontroli." >}}
+{{< technique name="Krótki komunikat" bad="Ile razy mam cię prosić o buty?" good="Buty." goal="Unikanie nagabywania: jedno słowo trudniej zignorować." >}}
+{{< technique name="Mów o sobie" bad="Jesteś egoistą, nigdy mi nie pomagasz." good="Irytuje mnie, gdy muszę powtarzać prośbę trzy razy." goal="Komunikat „Ja”: informacja o stanie rodzica zamiast ataku na dziecko." >}}
+{{< technique name="Proponowanie wyboru" bad="Masz wracać o 20:00." good="Chcesz wrócić o 20:00 czy 20:30?" goal="Uznanie autonomii: ograniczony wybór daje poczucie kontroli." >}}
 {{< /techniques >}}
 
 ## Zamiast karać
 
 {{< tldr >}}
-Kara wywołuje żal nad sobą i fantazje o zemście — nie nad popełnionym czynem. W jej miejsce: jasny sprzeciw, oczekiwania na przyszłość, naprawa szkody, naturalne konsekwencje.
+Kara wywołuje żal nad sobą i fantazje o zemście, nie nad popełnionym czynem. W jej miejsce: jasny sprzeciw, oczekiwania na przyszłość, naprawa szkody, naturalne konsekwencje.
 {{< /tldr >}}
 
 Kwestia karania nastolatków jest jednym z najbardziej kontrowersyjnych tematów w pedagogice. Analiza Faber i Mazlish wskazuje, że kara jest błędem strategicznym: zamiast skłaniać do żalu za popełniony czyn, skłania do nienawiści wobec karzącego i fantazjowania o zemście. Kara zakłóca proces wyciągania wniosków, ponieważ nastolatek uznaje, że „zapłacił" za swój błąd cierpieniem wynikającym z kary, co zamyka drogę do autentycznej poprawy zachowania.
@@ -107,16 +115,16 @@ Zamiast karania, rodzice powinni skupić się na tym, jak nastolatek może napra
 3. Wskazanie konkretnych kroków naprawczych (np. „Ta książka wymaga sklejenia i przeprosin właściciela").
 4. Zaproponowanie wyboru dotyczącego formy naprawy szkody.
 
-Jeśli zachowanie się powtarza mimo prób dialogu, rodzic powinien przejść do działania, które jest bezpośrednią konsekwencją zachowania. Warunek skuteczności: konsekwencja musi dotykać samego nastolatka, a nie rodzica. Jeśli rodzicowi bardziej zależy na czystych ubraniach niż dziecku, „pozwolenie na brak prania" zamienia się w cichą wojnę — wygrywa ten, kto pierwszy ustąpi. Naturalna konsekwencja działa tylko wtedy, gdy koszt ponosi ten, kto podjął decyzję:
+Jeśli zachowanie się powtarza mimo prób dialogu, rodzic powinien przejść do działania, które jest bezpośrednią konsekwencją zachowania. Warunek skuteczności: konsekwencja musi dotykać samego nastolatka, a nie rodzica. Jeśli rodzicowi bardziej zależy na czystych ubraniach niż dziecku, „pozwolenie na brak prania" zamienia się w cichą wojnę. Wygrywa ten, kto pierwszy ustąpi. Naturalna konsekwencja działa tylko wtedy, gdy koszt ponosi ten, kto podjął decyzję:
 
 - **Telefon nieładowany na noc** → rano rozładowany, bez kontaktu ze znajomymi w drodze do szkoły. Rodzic nie pożycza powerbanku.
 - **Kieszonkowe wydane w trzy dni** → brak pieniędzy na wyjście w weekend. Bez zaliczki na poczet kolejnego miesiąca.
 - **Niezabezpieczony rower lub zgubione słuchawki** → naprawa lub odkupienie z własnych pieniędzy, nie z budżetu rodziców.
-- **Spóźnienie powyżej ustalonej godziny powrotu** → następnym razem godzina powrotu jest wcześniejsza; wraca się do dłuższej po kilku dotrzymanych terminach.
+- **Spóźnienie powyżej ustalonej godziny powrotu** → następnym razem godzina powrotu jest wcześniejsza. Wraca się do dłuższej po kilku dotrzymanych terminach.
 - **Niedotrzymane zobowiązanie wobec drużyny, zespołu lub kółka** → trener czy prowadzący nie wystawia na mecz, koncert, występ. Patrzenie z ławki uczy szybciej niż wykład o odpowiedzialności.
 - **Zapomniany strój na WF, drugie śniadanie, podpisana zgoda** → rodzic nie dowozi do szkoły. Raz odczuty dyskomfort uczy więcej niż dziesięć przypomnień.
 
-Kluczowe jest, by rodzic nie ratował dziecka przed konsekwencją w ostatniej chwili — w przeciwnym razie nauka się nie wydarzy, a komunikat brzmi: „i tak cię z tego wyciągnę".
+Kluczowe jest, by rodzic nie ratował dziecka przed konsekwencją w ostatniej chwili. W przeciwnym razie nauka się nie wydarzy, a komunikat brzmi: „i tak cię z tego wyciągnę".
 
 ## Rozwiązywanie konfliktów w pięciu krokach
 
@@ -128,14 +136,14 @@ W sytuacjach chronicznych lub złożonych konfliktów Faber i Mazlish rekomenduj
 
 ### Jak to wygląda krok po kroku
 
-Proces rozpoczyna się od zaproszenia nastolatka do rozmowy w neutralnym momencie, gdy emocje nie są rozpalone. **Pierwszym krokiem** jest wysłuchanie punktu widzenia dziecka bez przerywania i oceniania. **W drugim kroku** rodzic przedstawia swoją perspektywę, skupiając się na uczuciach i potrzebach („Czuję niepokój, gdy wracasz po ustalonym czasie"). **Trzeci krok** to wspólna burza mózgów — strumień pomysłów, w którym obie strony powstrzymują się od oceny, dopuszczając także rozwiązania nierealne czy humorystyczne.
+Proces rozpoczyna się od zaproszenia nastolatka do rozmowy w neutralnym momencie, gdy emocje nie są rozpalone. **Pierwszym krokiem** jest wysłuchanie punktu widzenia dziecka bez przerywania i oceniania. **W drugim kroku** rodzic przedstawia swoją perspektywę, skupiając się na uczuciach i potrzebach („Czuję niepokój, gdy wracasz po ustalonym czasie"). **Trzeci krok** to wspólna burza mózgów: strumień pomysłów, w którym obie strony powstrzymują się od oceny, dopuszczając także rozwiązania nierealne czy humorystyczne.
 
 **W czwartym kroku** wszystkie zgłoszone propozycje trafiają na jedną wspólną listę. Dopiero **w piątym kroku** następuje krytyczna analiza listy i wybór tych rozwiązań, które są akceptowalne dla obu stron. Takie podejście sprawia, że nastolatek czuje się współautorem zasad, co wyraźnie zwiększa szansę na ich przestrzeganie.
 
 ## Etykiety, które ranią. Pochwały, które budują
 
 {{< tldr >}}
-Zauważaj każdy wyjątek łamiący negatywną etykietę. Chwal konkretem („widzę, że…"), nie ogólnikiem („brawo, super") — wniosek o sobie dziecko ma wyciągnąć samo.
+Zauważaj każdy wyjątek łamiący negatywną etykietę. Chwal konkretem („widzę, że…"), nie ogólnikiem („brawo, super"). Wniosek o sobie dziecko ma wyciągnąć samo.
 {{< /tldr >}}
 
 Okres dojrzewania to czas intensywnego budowania tożsamości. Rodzice, poprzez swoje komunikaty, stają się lustrem, w którym nastolatek się przegląda. Jeśli lustro to stale pokazuje wady i przypisuje negatywne role (np. „jesteś kłótliwa"), dziecko zaczyna wierzyć, że taka jest jego natura, co cementuje niewłaściwe zachowania.
@@ -146,12 +154,12 @@ Aby uwolnić dziecko od destrukcyjnych etykiet, rodzic musi stać się czujnym o
 
 Pochwała opisowa różni się od oceniającej tym, że nie zawiera słów takich jak „dobrze", „ładnie" czy „grzecznie". Zamiast tego skupia się na faktach i uczuciach rodzica: „Widzę, że skończyłeś wypracowanie dwa dni przed terminem. To się nazywa organizacja czasu. Czuję duży spokój, wiedząc, że masz to już z głowy". Taka pochwała pozwala nastolatkowi samodzielnie wyciągnąć wniosek: „Potrafię pracować systematycznie", co jest fundamentem trwałej pewności siebie.
 
-{{< swap bad="Brawo, jesteś świetny!" good="Widzę, że skończyłeś wypracowanie dwa dni przed terminem — to się nazywa organizacja czasu." >}}
+{{< swap bad="Brawo, jesteś świetny!" good="Widzę, że skończyłeś wypracowanie dwa dni przed terminem. To się nazywa organizacja czasu." >}}
 
 ## Trudne tematy: seks, używki, ekrany
 
 {{< tldr >}}
-Zamiast jednej Wielkiej Rozmowy — seria krótkich, spokojnych dialogów opartych na faktach, bez moralizatorstwa, z otwartymi drzwiami na powrót.
+Zamiast jednej Wielkiej Rozmowy: seria krótkich, spokojnych dialogów opartych na faktach, bez moralizatorstwa, z otwartymi drzwiami na powrót.
 {{< /tldr >}}
 
 Współczesne nastolatki mierzą się z wyzwaniami, których nie znali ich rodzice: cyberprzemocą, łatwym dostępem do pornografii i dopalaczy. Badania nad zachowaniami zdrowotnymi młodzieży wskazują na korelację między używaniem substancji psychoaktywnych a ryzykownymi zachowaniami seksualnymi. W tym kontekście metoda Faber i Mazlish staje się narzędziem profilaktycznym.
@@ -162,16 +170,16 @@ Autorki sugerują, by rozmowy o seksie czy narkotykach nie przyjmowały formy je
 
 | Obszar zagrożenia | Sygnały ostrzegawcze | Strategia komunikacyjna |
 |---|---|---|
-| Substancje ({{< term def="sześciopytaniowy kwestionariusz przesiewowy opracowany w Boston Children's Hospital, używany w pediatrii i medycynie młodzieżowej do oceny ryzyka uzależnienia." >}}CRAFFT{{< /term >}}) | Zmiana nastroju, izolacja, spadek ocen. | Opisanie zaobserwowanych zmian bez oskarżania; zaproszenie do wspólnego szukania przyczyn. |
-| Ryzykowne zachowania seksualne | Tajemniczość, presja rówieśnicza. | Edukacja oparta na faktach o zdrowiu i granicach; walidacja emocji związanych z relacjami. |
-| Czas przed ekranem | {{< term def="chroniczny niedobór snu — prowadzi do spadku koncentracji, wahań nastroju, osłabienia odporności i pogorszenia ocen." >}}Deprywacja snu{{< /term >}}, agresja przy próbie odłączenia. | Wspólne ustalenie zasad (metoda pięciu kroków); modelowanie własnej higieny cyfrowej. |
+| Substancje ({{< term def="sześciopytaniowy kwestionariusz przesiewowy opracowany w Boston Children's Hospital, używany w pediatrii i medycynie młodzieżowej do oceny ryzyka uzależnienia." >}}CRAFFT{{< /term >}}) | Zmiana nastroju, izolacja, spadek ocen. | Opisanie zaobserwowanych zmian bez oskarżania. Zaproszenie do wspólnego szukania przyczyn. |
+| Ryzykowne zachowania seksualne | Tajemniczość, presja rówieśnicza. | Edukacja oparta na faktach o zdrowiu i granicach. Walidacja emocji związanych z relacjami. |
+| Czas przed ekranem | {{< term def="chroniczny niedobór snu, prowadzący do spadku koncentracji, wahań nastroju, osłabienia odporności i pogorszenia ocen." >}}Deprywacja snu{{< /term >}}, agresja przy próbie odłączenia. | Wspólne ustalenie zasad (metoda pięciu kroków). Modelowanie własnej higieny cyfrowej. |
 
 Kluczem jest zachowanie otwartości i spokoju, nawet gdy nastolatek testuje granice. Świadomość, że rodzic jest bezpieczną przystanią, do której można przyjść z każdym problemem, jest najskuteczniejszą ochroną przed patologiami okresu dorastania.
 
-## Codzienna praktyka — ściągawka
+## Codzienna praktyka: ściągawka
 
 {{< tldr >}}
-Pięć przypomnień rano, cztery pytania wieczorem — cały system w mniej niż pięć minut dziennie.
+Pięć przypomnień rano, cztery pytania wieczorem. Cały system w mniej niż pięć minut dziennie.
 {{< /tldr >}}
 
 Proces wdrażania metod Faber i Mazlish nie jest jednorazowym wydarzeniem, lecz codziennym wysiłkiem nad własną postawą. Poniższe zestawienie stanowi esencję systemu, gotową do szybkiego odświeżenia w momentach kryzysowych lub w ramach porannej rutyny.
@@ -194,7 +202,7 @@ Proces wdrażania metod Faber i Mazlish nie jest jednorazowym wydarzeniem, lecz 
 ## Po co to wszystko
 
 {{< tldr >}}
-Celem nie jest posłuszne dziecko, lecz dorosły człowiek, który umie szanować uczucia — własne i cudze.
+Celem nie jest posłuszne dziecko, lecz dorosły człowiek, który umie szanować uczucia: własne i cudze.
 {{< /tldr >}}
 
 Metoda Faber i Mazlish w świetle współczesnych badań nad dobrostanem nastolatków pokazuje, że rodzice stosujący te techniki nie tylko rozwiązują bieżące konflikty, ale przede wszystkim wyposażają swoje dzieci w kompetencje niezbędne w dorosłym życiu. Nastolatek, którego uczucia są szanowane, uczy się szanować uczucia innych. Dziecko, które bierze udział w rozwiązywaniu problemów, staje się dorosłym zdolnym do kompromisu i kreatywnego myślenia w sytuacjach kryzysowych.
